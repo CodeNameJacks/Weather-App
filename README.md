@@ -12,3 +12,9 @@ https://github.com/CodeNameJacks/CPS847-Assignment3/blob/Sql-Scripts/orignalSQLS
 Url to migration script adding facilitator field
 https://github.com/CodeNameJacks/CPS847-Assignment3/blob/Sql-Scripts/addFacilitatorSQLStmt.sql
 
+Url of Vue app
+http://192.168.57.122:5173
+
+Url of Django app
+http://192.168.57.122:8000/polls
+
