@@ -42,8 +42,8 @@
         <div class = 'location'>
             <div class = "weatherinfo">
                 <div class="city"><h1>{{weather.name}}</h1></div>
-                <h3>{{(weather.main.temp-273).toFixed()}}&deg; Celius</h3>
-                <h3>{{weather.weather[0].description}}</h3>
+                <h3>{{(weather.main?.temp-273).toFixed()}}&deg; Celius</h3>
+                <h3>{{weather.weather ? weather?.weather[0].description : ''}}</h3> 
             </div>
         </div>
     </div>
