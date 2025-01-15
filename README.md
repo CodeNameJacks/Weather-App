@@ -1,13 +1,6 @@
-# CPS847-Assignment3
+# Weather App
 
-Root folder of Vue project source code: 
-https://github.com/CodeNameJacks/CPS847-Assignment3/tree/main/Vue_Project
+The implementation of a simple modern website that shows the current date, time and weather for Paris, Ontario (in degrees Celsius) along with
+pages and navigation bar for About Us, Services, and Our Customer (each page only contains place holder text for demostration purposes).
 
-Root folder of Django source code: 
-https://github.com/CodeNameJacks/CPS847-Assignment3/tree/main/jackPoll
-
-Url to original Sql script:
-https://github.com/CodeNameJacks/CPS847-Assignment3/blob/main/orignalSQLStatements.sql
-
-Url to migration script adding facilitator field: 
-https://github.com/CodeNameJacks/CPS847-Assignment3/blob/main/addFacilitatorSQLStmt.sql
+Using the Open Weather Map API, an asynchronous data fecthing method was used to get the data.
